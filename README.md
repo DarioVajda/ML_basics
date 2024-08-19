@@ -8,4 +8,5 @@ This is a collection of tutorials I've followed and mini projects I've worked on
 5. Transfer_Learning (**) - used an already trained image classification model to fine tune it and comparing the results to training only its last layer.
 
 (*) - Download the folder "rnn_data" and upload it to your google drive in the folder at location "My Drive/google_colab", or change the path in the code.
+
 (**) - Download the folder "hymenoptera_data" and upload it to your google drive in the folder at location "My Drive/google_colab" or change the path in the code.
