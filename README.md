@@ -1,4 +1,4 @@
-# ML_basics
+# Learning ML
 This is a collection of tutorials I've followed and mini projects I've worked on while learning ML in PyTorch.
 
 1. PyTorch_basics - coverage of basic concepts in PyTorch, their implementation and usage.
